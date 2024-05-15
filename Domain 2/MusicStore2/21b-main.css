@@ -1,8 +1,12 @@
 ﻿body
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
-    backhround-color: #FAB66B;
+    backhround-color: #fab66b
 } 
-p{
+p {
     color: navy;
+}
+.sale {
+    font-weight: bold;
+    background-color: aqua;
 }
