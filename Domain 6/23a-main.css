@@ -20,3 +20,7 @@ a:hover {
 #sidenote {
     background-color:#dbd9d9;
 }
+figcaption {
+    color: navy;
+    background-color: aqua;
+}
